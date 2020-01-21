@@ -38,5 +38,5 @@ Check starting Tomcat Server
     
 ### Example
 
-<img src="result.png" width:"100" />
+![result](https://github.com/dianakoh/chart-test/blob/master/result.png)
 
